@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>高清圖片 Lightbox 技術測試</title>
+<style>
+* { box-sizing: border-box; }
+body { margin: 0; background: #f6f7f9; color: #202124; font-family: Arial, sans-serif; }
+main { max-width: 680px; margin: auto; padding: 20px; }
+h1 { font-size: 24px; }
+.card { padding: 16px; background: white; border-radius: 12px; }
+.thumbnail { display: block; width: 100%; padding: 0; border: 0; background: #fafafa; cursor: zoom-in; }
+.thumbnail img { display: block; width: 100%; max-height: 360px; object-fit: contain; }
+button:focus-visible { outline: 3px solid #1769aa; outline-offset: 4px; }
+.note { color: #555; line-height: 1.6; }
+dialog { position: fixed; inset: 0; width: 100vw; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; background: #000e; color: white; }
+dialog::backdrop { background: #000; }
+.viewer { width: 100%; height: 100%; overflow: auto; padding: 64px 16px 24px; }
+.stage { display: flex; align-items: center; justify-content: center; min-width: 100%; min-height: 100%; width: max-content; }
+.full-image { display: block; width: auto; height: auto; max-width: calc(100vw - 32px); max-height: calc(100dvh - 88px); object-fit: contain; cursor: zoom-in; }
+.full-image.original { max-width: none; max-height: none; cursor: zoom-out; }
+.controls { position: fixed; top: 12px; right: 12px; display: flex; gap: 12px; z-index: 1; }
+.controls button { min-width: 44px; min-height: 44px; padding: 8px 12px; border: 1px solid #aaa; border-radius: 8px; background: #222; color: white; font-size: 16px; cursor: pointer; }
+.controls .close { font-size: 28px; line-height: 1; }
+</style>
+</head>
+<body>
+<main>
+<h1>高清圖片 Lightbox 技術測試</h1>
+<p class="note">獨立技術測試，未加入正式商品清單。以下名稱與貨號為指定的測試資料，附件價牌顯示 #160589。</p>
+<article class="card">
+<button class="thumbnail" type="button" aria-label="開啟商品高清圖片" aria-haspopup="dialog"><img src="images/full/141909.jpg" alt="油切分解茶現場優惠測試照片"></button>
+<p>貨號：141909</p>
+<h2>御茶園特上油切分解茶 590ML X 24入</h2>
+<p class="note">點擊圖片查看高清版本。開啟後可切換原始尺寸並捲動查看，也可使用瀏覽器原生縮放。</p>
+</article>
+</main>
+<dialog aria-label="商品高清圖片">
+<div class="controls"><button class="zoom" type="button" aria-pressed="false">原始尺寸</button><button class="close" type="button" aria-label="關閉高清圖片">×</button></div>
+<div class="viewer"><div class="stage"><img class="full-image" alt="油切分解茶現場優惠高清測試照片"></div></div>
+</dialog>
+<script>
+const dialog = document.querySelector('dialog');
+const image = document.querySelector('.full-image');
+const zoom = document.querySelector('.zoom');
+const thumbnail = document.querySelector('.thumbnail');
+let previousOverflow;
+thumbnail.addEventListener('click', () => {
+  image.src = 'images/full/141909.jpg';
+  image.classList.remove('original');
+  zoom.textContent = '原始尺寸';
+  zoom.setAttribute('aria-pressed', 'false');
+  previousOverflow = document.body.style.overflow;
+  document.body.style.overflow = 'hidden';
+  dialog.showModal();
+  document.querySelector('.viewer').scrollTo(0, 0);
+});
+function toggleZoom() {
+  const original = image.classList.toggle('original');
+  zoom.textContent = original ? '適合螢幕' : '原始尺寸';
+  zoom.setAttribute('aria-pressed', String(original));
+}
+zoom.addEventListener('click', toggleZoom);
+image.addEventListener('click', toggleZoom);
+document.querySelector('.close').addEventListener('click', () => dialog.close());
+dialog.addEventListener('click', event => {
+  if (event.target === dialog || event.target.classList.contains('viewer') || event.target.classList.contains('stage')) dialog.close();
+});
+dialog.addEventListener('close', () => {
+  document.body.style.overflow = previousOverflow;
+  thumbnail.focus();
+});
+// Native dialog handles Escape and confines keyboard focus while open.
+</script>
+</body>
+</html>
