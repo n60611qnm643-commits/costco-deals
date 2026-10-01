@@ -1,0 +1,42 @@
+[
+  {
+    "item_no": "147503",
+    "product_name": "CESAR 西莎鮮肉主食碗",
+    "source_file": "Daybuy_Costco_2026-09-29_p01-10.pdf",
+    "source_page_original": 5,
+    "image": "images/full/147503.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "138420",
+    "product_name": "CP 卜蜂松露菌菇雞胸肉",
+    "source_file": "Daybuy_Costco_2026-09-29_p01-10.pdf",
+    "source_page_original": 6,
+    "image": "images/full/138420.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "137594",
+    "product_name": "HONG YU 宏裕行冷凍花枝丸",
+    "source_file": "Daybuy_Costco_2026-09-29_p01-10.pdf",
+    "source_page_original": 7,
+    "image": "images/full/137594.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "860659",
+    "product_name": "PEI TIEN 北田海鮮捲蒜香蝦口味",
+    "source_file": "Daybuy_Costco_2026-09-29_p01-10.pdf",
+    "source_page_original": 7,
+    "image": "images/full/860659.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "117946",
+    "product_name": "KOHLER 沐浴軟水過濾器",
+    "source_file": "Daybuy_Costco_2026-09-29_p01-10.pdf",
+    "source_page_original": 8,
+    "image": "images/full/117946.jpg",
+    "status": "matched"
+  }
+]
