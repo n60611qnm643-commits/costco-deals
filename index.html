@@ -12,7 +12,7 @@ h2{margin-top:28px;border-left:6px solid #555;padding-left:10px}
 @media(max-width:650px){.card{grid-template-columns:1fr}.card img{width:100%;height:auto;max-height:300px}.wrap{padding:10px}}
 
 /* Only images with a nonempty data-full opt into the lightbox. */
-.card img[data-full]:not([data-full=""]) { cursor: zoom-in; }
+.card img[data-full]:not([data-full=""]) { cursor: pointer; }
 #deal-lightbox { position: fixed; inset: 0; width: 100vw; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; background: #000e; color: white; }
 #deal-lightbox::backdrop { background: #000; }
 .deal-lightbox-viewer { width: 100%; height: 100%; overflow: auto; padding: 64px 16px 24px; }
@@ -58,13 +58,14 @@ h2{margin-top:28px;border-left:6px solid #555;padding-left:10px}
   }
   // Delegation also supports images added later without changing this script.
   document.addEventListener('click', event => {
-    const target = event.target.closest('.card img[data-full]');
+    const target = event.target instanceof Element ? event.target.closest('img[data-full]') : null;
     if (target && target.getAttribute('data-full').trim()) {
       event.preventDefault();
+      event.stopPropagation();
       openImage(target);
     }
-  });
-  document.querySelectorAll('.card img[data-full]').forEach(target => {
+  }, true); // Capture clicks before bubbling; supports mobile image taps.
+  document.querySelectorAll('img[data-full]').forEach(target => {
     if (!target.getAttribute('data-full').trim()) return;
     target.setAttribute('tabindex', '0');
     target.setAttribute('role', 'button');
@@ -72,7 +73,7 @@ h2{margin-top:28px;border-left:6px solid #555;padding-left:10px}
   });
   document.addEventListener('keydown', event => {
     if (event.key !== 'Enter' && event.key !== ' ') return;
-    const target = event.target.closest('.card img[data-full]');
+    const target = event.target instanceof Element ? event.target.closest('img[data-full]') : null;
     if (!target || !target.getAttribute('data-full').trim()) return;
     event.preventDefault();
     openImage(target);
