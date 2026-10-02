@@ -1,0 +1,50 @@
+[
+  {
+    "item_no": "146935",
+    "product_name": "CETAPHIL 舒特膚嫩亮角質潔膚凝膠",
+    "source_file": "Daybuy_Costco_2026-09-29_p11-20.pdf",
+    "source_page_original": 18,
+    "image": "images/full/146935.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "150377",
+    "product_name": "VEILMENT 蓓蔓寶可夢護脣膏三入組 皮卡丘/寶貝球/卡比獸",
+    "source_file": "Daybuy_Costco_2026-09-29_p11-20.pdf",
+    "source_page_original": 18,
+    "image": "images/full/150377.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "243227",
+    "product_name": "MUSTELA 慕之恬廊高效全護防曬乳",
+    "source_file": "Daybuy_Costco_2026-09-29_p11-20.pdf",
+    "source_page_original": 19,
+    "image": "images/full/243227.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "291447",
+    "product_name": "NIVEA 妮維雅極效嫩白水感身體乳",
+    "source_file": "Daybuy_Costco_2026-09-29_p11-20.pdf",
+    "source_page_original": 19,
+    "image": "images/full/291447.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "137177",
+    "product_name": "CETAPHIL 舒特膚長效潤膚霜",
+    "source_file": "Daybuy_Costco_2026-09-29_p21-30.pdf",
+    "source_page_original": 22,
+    "image": "images/full/137177.jpg",
+    "status": "matched"
+  },
+  {
+    "item_no": "223351",
+    "product_name": "JAMIESON 維生素C+D咀嚼錠",
+    "source_file": "Daybuy_Costco_2026-09-29_p21-30.pdf",
+    "source_page_original": 22,
+    "image": "images/full/223351.jpg",
+    "status": "matched"
+  }
+]
