@@ -34,7 +34,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "78623",
@@ -58,7 +60,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "177837",
@@ -82,7 +86,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "75130",
@@ -106,7 +112,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "453830",
@@ -130,7 +138,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "123333",
@@ -154,7 +164,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "886601",
@@ -178,7 +190,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "212868",
@@ -202,7 +216,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "153830",
@@ -226,7 +242,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "158557",
@@ -250,7 +268,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "120108",
@@ -274,7 +294,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "142965",
@@ -298,7 +320,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "145270",
@@ -322,7 +346,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "332545",
@@ -346,7 +372,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "150726",
@@ -370,7 +398,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "886600",
@@ -394,7 +424,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "437561",
@@ -418,7 +450,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "155596",
@@ -442,7 +476,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 1
+      "max_order_quantity": 1,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "143895",
@@ -466,7 +502,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 1
+      "max_order_quantity": 1,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "77915",
@@ -490,7 +528,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "205303",
@@ -514,7 +554,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "160956",
@@ -538,7 +580,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "130441",
@@ -562,7 +606,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "133605",
@@ -586,7 +632,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "157013",
@@ -610,7 +658,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 2
+      "max_order_quantity": 2,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "160801",
@@ -634,7 +684,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "156338",
@@ -658,7 +710,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "153955",
@@ -682,7 +736,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "161316",
@@ -706,7 +762,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "109665",
@@ -730,7 +788,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "115139",
@@ -754,7 +814,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 2,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "132440",
@@ -778,7 +840,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1111713",
@@ -802,7 +866,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "127125",
@@ -826,7 +892,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "137007",
@@ -850,7 +918,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1747373",
@@ -874,7 +944,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1646063",
@@ -898,7 +970,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "658912",
@@ -922,7 +996,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "328912",
@@ -946,7 +1022,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 2
+      "max_order_quantity": 2,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "161741",
@@ -970,7 +1048,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1297130",
@@ -994,7 +1074,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 4
+      "max_order_quantity": 4,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "153515",
@@ -1018,7 +1100,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "203565",
@@ -1042,7 +1126,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "158876",
@@ -1066,7 +1152,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1901782",
@@ -1090,7 +1178,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "158960",
@@ -1114,7 +1204,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "246436",
@@ -1138,7 +1230,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1176954",
@@ -1162,7 +1256,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 2,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "449366",
@@ -1186,7 +1282,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1176955",
@@ -1210,7 +1308,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "158958",
@@ -1234,7 +1334,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "110980",
@@ -1258,7 +1360,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "68080",
@@ -1282,7 +1386,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "162230",
@@ -1306,7 +1412,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "153837",
@@ -1330,7 +1438,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "152932",
@@ -1354,7 +1464,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 4
+      "max_order_quantity": 4,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "161712",
@@ -1378,7 +1490,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "158961",
@@ -1402,7 +1516,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "110979",
@@ -1426,7 +1542,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1812395",
@@ -1450,7 +1568,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "158959",
@@ -1474,7 +1594,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "649366",
@@ -1498,7 +1620,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1987669",
@@ -1522,7 +1646,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "144897",
@@ -1546,7 +1672,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "lowStock"
     },
     {
       "item_no": "1872245",
@@ -1570,7 +1698,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "129020",
@@ -1594,7 +1724,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1176956",
@@ -1618,7 +1750,9 @@
       "image_height": 1200,
       "min_order_quantity": 10,
       "order_multiple": 10,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "148159",
@@ -1642,7 +1776,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1872201",
@@ -1666,7 +1802,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "159887",
@@ -1690,7 +1828,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "inStock"
     },
     {
       "item_no": "1050700",
@@ -1714,7 +1854,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 6
+      "max_order_quantity": 6,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     },
     {
       "item_no": "161403",
@@ -1738,7 +1880,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 2
+      "max_order_quantity": 2,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     },
     {
       "item_no": "161340",
@@ -1762,7 +1906,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     },
     {
       "item_no": "158981",
@@ -1786,7 +1932,9 @@
       "image_height": 1200,
       "min_order_quantity": 2,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     },
     {
       "item_no": "122731",
@@ -1810,7 +1958,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     },
     {
       "item_no": "153948",
@@ -1834,7 +1984,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     },
     {
       "item_no": "153312",
@@ -1858,7 +2010,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     },
     {
       "item_no": "749366",
@@ -1882,7 +2036,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     },
     {
       "item_no": "8527298",
@@ -1906,7 +2062,9 @@
       "image_height": 1200,
       "min_order_quantity": 1,
       "order_multiple": 1,
-      "max_order_quantity": 500
+      "max_order_quantity": 500,
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "stock_status": "outOfStock"
     }
   ],
   "skipped": [
@@ -2109,7 +2267,8 @@
       "purpose": "官方商品、線上價格與活動規則",
       "checked_on": "2026-10-15",
       "http_status": 200,
-      "used_for_current_week_items": true
+      "used_for_current_week_items": true,
+      "checked_at": "2026-10-15T16:22:47+08:00"
     },
     {
       "name": "今購百科 Daybuy",
@@ -2118,7 +2277,9 @@
       "checked_on": "2026-10-15",
       "http_status": 403,
       "used_for_current_week_items": false,
-      "note": "來源網站目前無法讀取，本週資料尚未核實，未納入已核實優惠。"
+      "note": "重新嘗試仍回覆 HTTP 403；尚未使用今購更新本週商品。",
+      "checked_at": "2026-10-15T16:22:47+08:00"
     }
-  ]
+  ],
+  "checked_at": "2026-10-15T16:22:47+08:00"
 }
