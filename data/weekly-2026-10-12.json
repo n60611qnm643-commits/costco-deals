@@ -2276,10 +2276,13 @@
       "purpose": "賣場目擊優惠與現場價牌",
       "checked_on": "2026-10-15",
       "http_status": 403,
-      "used_for_current_week_items": false,
-      "note": "重新嘗試仍回覆 HTTP 403；尚未使用今購更新本週商品。",
-      "checked_at": "2026-10-15T16:22:47+08:00"
+      "used_for_current_week_items": true,
+      "note": "網站直接讀取仍回覆403；本週賣場目擊資料改由使用者提供的10/13 PDF 核對，與79筆官方線上價格分開。",
+      "checked_at": "2026-10-15T16:22:47+08:00",
+      "retrieval_method": "user_uploaded_pdf",
+      "pdf_processed_at": "2026-10-15T16:39:14+08:00"
     }
   ],
-  "checked_at": "2026-10-15T16:22:47+08:00"
+  "checked_at": "2026-10-15T16:22:47+08:00",
+  "warehouse_data_file": "data/daybuy-2026-10-13.json"
 }
