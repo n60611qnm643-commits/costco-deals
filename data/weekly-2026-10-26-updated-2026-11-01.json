@@ -1843,11 +1843,11 @@
       "http_status": 403,
       "checked_at": "2026-10-28T10:35:25+08:00",
       "used_for_current_week_items": true,
-      "note": "網站讀取仍回覆403；本週賣場目擊改由使用者提供10/27 PDF核對，與官方線上價分開。",
-      "retrieval_method": "user_uploaded_pdf",
-      "pdf_processed_at": "2026-10-28T11:19:24+08:00"
+      "note": "網站直接讀取先前回覆403；10/31現場資料由使用者提供兩份PDF核對，不與官方線上價混用。",
+      "retrieval_method": "user_uploaded_split_pdfs",
+      "pdf_processed_at": "2026-11-01T09:20:01+08:00"
     }
   ],
-  "warehouse_data_file": "data/daybuy-2026-10-27.json",
-  "update_note": "11/1重新查核官方線上優惠；10/31現場PDF超過32MiB傳輸限制，尚未納入。既有10/27目擊僅供參考。"
+  "warehouse_data_file": "data/daybuy-2026-10-31.json",
+  "update_note": "11/1重新查核官方線上優惠；另已由使用者提供的兩份PDF加入10/31現場目擊，與線上價分開呈現。"
 }
