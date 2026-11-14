@@ -5685,13 +5685,18 @@
       "used_for_current_week_items": true
     },
     {
-      "name": "今購百科 Daybuy（使用者提供PDF）",
-      "source_file": "Costco好市多 2026_11_14(六) 現場優惠情報 - 今購百科Daybuy.tw.pdf",
-      "used_for_current_week_items": false,
-      "status": "pending_split_pdf",
-      "note": "附件超過工作環境32MiB傳輸上限，尚未讀取或納入。需每份小於32MiB的分割PDF。"
+      "name": "今購百科 Daybuy（使用者提供拆分PDF）",
+      "source_url": "https://www.daybuy.tw/costco/279120/",
+      "source_files": [
+        "Costco好市多20261.pdf",
+        "Costco好市多2026112.pdf"
+      ],
+      "used_for_current_week_items": true,
+      "status": "processed",
+      "pdf_processed_at": "2026-11-15T00:13:57+08:00",
+      "note": "兩份PDF共184頁；依正文照片及圖說核對165組商品，與官方線上價格分開。"
     }
   ],
-  "warehouse_data_file": null,
-  "warehouse_update_status": "pending_split_pdf"
+  "warehouse_data_file": "data/daybuy-2026-11-14.json",
+  "warehouse_update_status": "processed"
 }

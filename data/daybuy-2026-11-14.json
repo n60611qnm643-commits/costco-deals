@@ -1,0 +1,4864 @@
+{
+  "source": "今購百科 Daybuy（使用者提供拆分PDF）",
+  "source_url": "https://www.daybuy.tw/costco/279120/",
+  "source_files": [
+    {
+      "file": "Costco好市多20261.pdf",
+      "sha256": "74ca2b74f684eb889d3b2e7e6e5f3b9fc76aea2cf807ccf001356d1c1015cfde",
+      "size_bytes": 22992391,
+      "page_count": 92,
+      "combined_page_offset": 0
+    },
+    {
+      "file": "Costco好市多2026112.pdf",
+      "sha256": "4d3f03757c7ef88db661bd83d301025a86de1b9a53ed35e73f8b91c2bd7fd0c3",
+      "size_bytes": 19076064,
+      "page_count": 92,
+      "combined_page_offset": 92
+    }
+  ],
+  "source_page_count": 184,
+  "observed_on": "2026-11-14",
+  "processed_at": "2026-11-15T00:13:57+08:00",
+  "article_claimed_item_count": 165,
+  "identified_product_group_count": 165,
+  "notice": "兩份PDF依內文與圖說串接為184頁；正文商品照片位於合併頁3–167，共165組，與封面一致。第35頁照片圖說跨至第36頁，已按商品與貨號核對。第168頁以後為推薦文章，未納入。圖說多貨號只採照片可確認者；保留原始照片解析度，不放大低解析度圖片。日期未能可靠核實者留空，不把商品保存期限誤當優惠截止日。",
+  "items": [
+    {
+      "item_no": "246249",
+      "item_nos": [
+        "246249"
+      ],
+      "product_name": "CAPTAINDANNY 丹尼船長米的洋芋片松露味",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 3,
+      "source_page_local": 3,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "246249"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/246249.jpg",
+      "thumbnail": "images/thumb/2026-11-14/246249.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 299492,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "153555",
+      "item_nos": [
+        "153555"
+      ],
+      "product_name": "TCL 75 吋MINILED 顯示器",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 4,
+      "source_page_local": 4,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "153555"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/153555.jpg",
+      "thumbnail": "images/thumb/2026-11-14/153555.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 286426,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "161519",
+      "item_nos": [
+        "161519"
+      ],
+      "product_name": "SAMSUNG 65吋MINILED顯示器",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 5,
+      "source_page_local": 5,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "161519"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/161519.jpg",
+      "thumbnail": "images/thumb/2026-11-14/161519.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 224435,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "159183",
+      "item_nos": [
+        "159183"
+      ],
+      "product_name": "LG 315公升雙頻雙門冰箱",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 6,
+      "source_page_local": 6,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "159183"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/159183.jpg",
+      "thumbnail": "images/thumb/2026-11-14/159183.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 265208,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "626086",
+      "item_nos": [
+        "626086",
+        "626087",
+        "626088"
+      ],
+      "product_name": "MAMY POKO 滿意寶寶哆啦A夢輕巧褲",
+      "category": "👶 母嬰兒童",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 7,
+      "source_page_local": 7,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "626086",
+        "626087",
+        "626088"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/626086.jpg",
+      "thumbnail": "images/thumb/2026-11-14/626086.jpg",
+      "width": 1320,
+      "height": 984,
+      "size_bytes": 344038,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "165002",
+      "item_nos": [
+        "165002",
+        "165003"
+      ],
+      "product_name": "MAMY POKO 滿意寶寶瞬潔乾爽紙尿褲",
+      "category": "👶 母嬰兒童",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 8,
+      "source_page_local": 8,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "165002",
+        "165003"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/165002.jpg",
+      "thumbnail": "images/thumb/2026-11-14/165002.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 399305,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "153289",
+      "item_nos": [
+        "153289"
+      ],
+      "product_name": "ELECTROLUX 伊萊克斯無線吸塵器 WQ71-2BSWF",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 9,
+      "source_page_local": 9,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "153289"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/153289.jpg",
+      "thumbnail": "images/thumb/2026-11-14/153289.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 263963,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "157741",
+      "item_nos": [
+        "157741"
+      ],
+      "product_name": "PHILIPS 飛利浦三刀頭電鬍刀 S6830",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 10,
+      "source_page_local": 10,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "157741"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/157741.jpg",
+      "thumbnail": "images/thumb/2026-11-14/157741.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 223746,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "144129",
+      "item_nos": [
+        "144129"
+      ],
+      "product_name": "BACKBONE MAMBA 人體工學椅",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 11,
+      "source_page_local": 11,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "144129"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/144129.jpg",
+      "thumbnail": "images/thumb/2026-11-14/144129.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 436884,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "147361",
+      "item_nos": [
+        "147361"
+      ],
+      "product_name": "OSRAM 歐司朗20W LED燈泡4入 白光/自然光",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 12,
+      "source_page_local": 12,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "147360",
+        "147361"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/147361.jpg",
+      "thumbnail": "images/thumb/2026-11-14/147361.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 191791,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1646074",
+      "item_nos": [
+        "1646074"
+      ],
+      "product_name": "TRESANTI 電動升降桌",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 13,
+      "source_page_local": 13,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1646074"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1646074.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1646074.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 306468,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "137176",
+      "item_nos": [
+        "137176"
+      ],
+      "product_name": "CETAPHIL 舒特膚長效潤膚乳",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 14,
+      "source_page_local": 14,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "137176"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/137176.jpg",
+      "thumbnail": "images/thumb/2026-11-14/137176.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 253667,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "137369",
+      "item_nos": [
+        "137369"
+      ],
+      "product_name": "CALIPHIL 雙人加大紐西蘭羊毛被",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 15,
+      "source_page_local": 15,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "137369"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/137369.jpg",
+      "thumbnail": "images/thumb/2026-11-14/137369.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 246019,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "137368",
+      "item_nos": [
+        "137368"
+      ],
+      "product_name": "CALIPHIL 雙人紐西蘭羊毛被",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 16,
+      "source_page_local": 16,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "137368"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/137368.jpg",
+      "thumbnail": "images/thumb/2026-11-14/137368.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 247202,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "153378",
+      "item_nos": [
+        "153378"
+      ],
+      "product_name": "LOOPLOOP 磁吸式傳輸充電線3入組 午夜黑/極光白",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 17,
+      "source_page_local": 17,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "153378",
+        "153379"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/153378.jpg",
+      "thumbnail": "images/thumb/2026-11-14/153378.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 227209,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1450843",
+      "item_nos": [
+        "1450843"
+      ],
+      "product_name": "SENSODYNE 舒酸定進階亮白抗敏牙膏",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 18,
+      "source_page_local": 18,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1450843"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1450843.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1450843.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 252775,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "139575",
+      "item_nos": [
+        "139575"
+      ],
+      "product_name": "SENSODYNE 舒酸定3D薄型軟毛牙刷",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 19,
+      "source_page_local": 19,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "139575"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/139575.jpg",
+      "thumbnail": "images/thumb/2026-11-14/139575.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 295328,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "159343",
+      "item_nos": [
+        "159343"
+      ],
+      "product_name": "LENOR 蘭諾衣物芳香豆青檸紫羅蘭超值組",
+      "category": "🧻 日用品清潔",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 20,
+      "source_page_local": 20,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "159343"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/159343.jpg",
+      "thumbnail": "images/thumb/2026-11-14/159343.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 317037,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "115917",
+      "item_nos": [
+        "115917"
+      ],
+      "product_name": "KNORR 康寶港式酸辣濃湯",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 21,
+      "source_page_local": 21,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "115917"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/115917.jpg",
+      "thumbnail": "images/thumb/2026-11-14/115917.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 305810,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "215918",
+      "item_nos": [
+        "215918"
+      ],
+      "product_name": "KNORR 康寶金黃玉米濃湯",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 22,
+      "source_page_local": 22,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "215918"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/215918.jpg",
+      "thumbnail": "images/thumb/2026-11-14/215918.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 341259,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "101776",
+      "item_nos": [
+        "101776"
+      ],
+      "product_name": "QUAKER 無添加糖黃金蕎麥多穀飲",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 23,
+      "source_page_local": 23,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "101776"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/101776.jpg",
+      "thumbnail": "images/thumb/2026-11-14/101776.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 199575,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "156747",
+      "item_nos": [
+        "156747"
+      ],
+      "product_name": "大拙匠人鵝油雙蔥煎餅",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 24,
+      "source_page_local": 24,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "156747"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/156747.jpg",
+      "thumbnail": "images/thumb/2026-11-14/156747.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 321743,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "108586",
+      "item_nos": [
+        "108586"
+      ],
+      "product_name": "QUINOA 高端食品藜麥椒鹽蘇打餅",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 25,
+      "source_page_local": 25,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "108586"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/108586.jpg",
+      "thumbnail": "images/thumb/2026-11-14/108586.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 310389,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "143951",
+      "item_nos": [
+        "143951"
+      ],
+      "product_name": "KOLOKO＆CADINA MINI經典美味雙享組",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 26,
+      "source_page_local": 26,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "143951"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/143951.jpg",
+      "thumbnail": "images/thumb/2026-11-14/143951.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 355969,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "126819",
+      "item_nos": [
+        "126819"
+      ],
+      "product_name": "LSC 老食粹有機紅棗",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 27,
+      "source_page_local": 27,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "126819"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/126819.jpg",
+      "thumbnail": "images/thumb/2026-11-14/126819.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 265361,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "126818",
+      "item_nos": [
+        "126818"
+      ],
+      "product_name": "LAO SHI CUI 老食粹有機枸杞",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 28,
+      "source_page_local": 28,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "126818"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/126818.jpg",
+      "thumbnail": "images/thumb/2026-11-14/126818.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 257878,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "225971",
+      "item_nos": [
+        "225971"
+      ],
+      "product_name": "STARBUCKS 中度烘焙即溶咖啡",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 29,
+      "source_page_local": 29,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "225971"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/225971.jpg",
+      "thumbnail": "images/thumb/2026-11-14/225971.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 306996,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "246280",
+      "item_nos": [
+        "246280"
+      ],
+      "product_name": "WITOR’S 綜合含餡松露造型巧克力",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 30,
+      "source_page_local": 30,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "246280"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/246280.jpg",
+      "thumbnail": "images/thumb/2026-11-14/246280.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 290224,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "144711",
+      "item_nos": [
+        "144711"
+      ],
+      "product_name": "SHU SHIN BOU 手信坊含餡蛋捲",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 31,
+      "source_page_local": 31,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "144711"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/144711.jpg",
+      "thumbnail": "images/thumb/2026-11-14/144711.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 274245,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "79922",
+      "item_nos": [
+        "79922"
+      ],
+      "product_name": "FERNLEAF 豐力富紐西蘭頂級純濃奶粉",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 32,
+      "source_page_local": 32,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "79922"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/79922.jpg",
+      "thumbnail": "images/thumb/2026-11-14/79922.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 305569,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "78299",
+      "item_nos": [
+        "78299"
+      ],
+      "product_name": "QUAKER 桂格北海道風味特濃燕麥片",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 33,
+      "source_page_local": 33,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "78299"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/78299.jpg",
+      "thumbnail": "images/thumb/2026-11-14/78299.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 312753,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "56879",
+      "item_nos": [
+        "56879"
+      ],
+      "product_name": "BARISTA 3-IN-1 西雅圖即品拿鐵咖啡",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 34,
+      "source_page_local": 34,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "56879"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/56879.jpg",
+      "thumbnail": "images/thumb/2026-11-14/56879.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 243664,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "143877",
+      "item_nos": [
+        "143877"
+      ],
+      "product_name": "DACHAN 大成冷凍椒鹽薄皮炸雞",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 35,
+      "source_page_local": 35,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "143877"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/143877.jpg",
+      "thumbnail": "images/thumb/2026-11-14/143877.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 304062,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "333404",
+      "item_nos": [
+        "333404"
+      ],
+      "product_name": "王品冷凍青花驕經典麻辣鍋",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 36,
+      "source_page_local": 36,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "333404"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/333404.jpg",
+      "thumbnail": "images/thumb/2026-11-14/333404.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 227597,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "131632",
+      "item_nos": [
+        "131632"
+      ],
+      "product_name": "WOWPRIME 王品三大名店冷凍火鍋料",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 37,
+      "source_page_local": 37,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "131632"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/131632.jpg",
+      "thumbnail": "images/thumb/2026-11-14/131632.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 251684,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "127189",
+      "item_nos": [
+        "127189"
+      ],
+      "product_name": "CALTRATE UC-II 挺立關鍵迷你錠",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 38,
+      "source_page_local": 38,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "127189"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/127189.jpg",
+      "thumbnail": "images/thumb/2026-11-14/127189.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 239453,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "186999",
+      "item_nos": [
+        "186999"
+      ],
+      "product_name": "正官庄高麗蔘精 EVERYTIME",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 39,
+      "source_page_local": 39,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "186999"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/186999.jpg",
+      "thumbnail": "images/thumb/2026-11-14/186999.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 280523,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "142927",
+      "item_nos": [
+        "142927"
+      ],
+      "product_name": "MOVE FREE 益節葡萄糖胺6IN1精華飲",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 40,
+      "source_page_local": 40,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "142927"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/142927.jpg",
+      "thumbnail": "images/thumb/2026-11-14/142927.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 301974,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "97716",
+      "item_nos": [
+        "97716"
+      ],
+      "product_name": "MERIDLIFE 樂益活菌護保健益生菌",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 41,
+      "source_page_local": 41,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "97716"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/97716.jpg",
+      "thumbnail": "images/thumb/2026-11-14/97716.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 250966,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "217306",
+      "item_nos": [
+        "217306"
+      ],
+      "product_name": "CENTRUM 善存葉黃素20MG",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 42,
+      "source_page_local": 42,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "217306"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/217306.jpg",
+      "thumbnail": "images/thumb/2026-11-14/217306.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 229348,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "993999",
+      "item_nos": [
+        "993999"
+      ],
+      "product_name": "PROTISON 補體素鉻100糖尿病適用配方",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 43,
+      "source_page_local": 43,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "993999"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/993999.jpg",
+      "thumbnail": "images/thumb/2026-11-14/993999.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 264001,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "197544",
+      "item_nos": [
+        "197544"
+      ],
+      "product_name": "ACUVUE 安視優超涵水每日拋棄式隱形眼鏡",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 44,
+      "source_page_local": 44,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "197544"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/197544.jpg",
+      "thumbnail": "images/thumb/2026-11-14/197544.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 253060,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "593577",
+      "item_nos": [
+        "593577"
+      ],
+      "product_name": "PERSIL 寶瀅全效能新配方洗衣凝露",
+      "category": "🧻 日用品清潔",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 45,
+      "source_page_local": 45,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "593577"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/593577.jpg",
+      "thumbnail": "images/thumb/2026-11-14/593577.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 315375,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "85136",
+      "item_nos": [
+        "85136"
+      ],
+      "product_name": "JACK DANIEL’S 傑克丹尼美國田納西威士忌",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 46,
+      "source_page_local": 46,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "85136"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/85136.jpg",
+      "thumbnail": "images/thumb/2026-11-14/85136.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 278865,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "146149",
+      "item_nos": [
+        "146149"
+      ],
+      "product_name": "YUMMY DOTS 享點子泰式綠咖哩雞",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 47,
+      "source_page_local": 47,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "146149"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/146149.jpg",
+      "thumbnail": "images/thumb/2026-11-14/146149.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 302968,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "229516",
+      "item_nos": [
+        "229516"
+      ],
+      "product_name": "提拉米蘇",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 48,
+      "source_page_local": 48,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "229516"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/229516.jpg",
+      "thumbnail": "images/thumb/2026-11-14/229516.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 305928,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "167247",
+      "item_nos": [
+        "167247"
+      ],
+      "product_name": "台灣冷凍豬梅花火鍋片",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 49,
+      "source_page_local": 49,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "167247"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/167247.jpg",
+      "thumbnail": "images/thumb/2026-11-14/167247.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 256757,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1130974",
+      "item_nos": [
+        "1130974"
+      ],
+      "product_name": "BALANCE GROW 蒜香奶油風味蝦餅",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 50,
+      "source_page_local": 50,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1130974"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1130974.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1130974.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 277594,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "150343",
+      "item_nos": [
+        "150343"
+      ],
+      "product_name": "TEMPTATIONS 喵愛餡三重奏貓零食",
+      "category": "🐶/🐱 寵物用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 51,
+      "source_page_local": 51,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "150343"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/150343.jpg",
+      "thumbnail": "images/thumb/2026-11-14/150343.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 303974,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "153262",
+      "item_nos": [
+        "153262"
+      ],
+      "product_name": "VIVISPA 鞣花淨白美妍SPA",
+      "category": "📦 其他",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 52,
+      "source_page_local": 52,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "153262"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/153262.jpg",
+      "thumbnail": "images/thumb/2026-11-14/153262.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 214714,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "158505",
+      "item_nos": [
+        "158505"
+      ],
+      "product_name": "PUMA 男短襪6入組",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 53,
+      "source_page_local": 53,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "158505"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/158505.jpg",
+      "thumbnail": "images/thumb/2026-11-14/158505.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 234135,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "693316",
+      "item_nos": [
+        "693316"
+      ],
+      "product_name": "HOPEON 旅行壓縮收納袋三入",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 54,
+      "source_page_local": 54,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "693316"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/693316.jpg",
+      "thumbnail": "images/thumb/2026-11-14/693316.jpg",
+      "width": 1481,
+      "height": 1105,
+      "size_bytes": 245806,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1654502",
+      "item_nos": [
+        "1654502"
+      ],
+      "product_name": "CASCADE 碳纖維三段式登山杖二入",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 55,
+      "source_page_local": 55,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1654502"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1654502.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1654502.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 317623,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1813253",
+      "item_nos": [
+        "1813253"
+      ],
+      "product_name": "LOLE 瑜珈墊含彈力帶",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 56,
+      "source_page_local": 56,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1813253"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1813253.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1813253.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 249630,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "155109",
+      "item_nos": [
+        "155109"
+      ],
+      "product_name": "ALCALA OLIVA 風味初榨橄欖油禮盒",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 57,
+      "source_page_local": 57,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "155109"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/155109.jpg",
+      "thumbnail": "images/thumb/2026-11-14/155109.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 286120,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "160084",
+      "item_nos": [
+        "160084"
+      ],
+      "product_name": "JNY 珍苑紅燒牛肉湯",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 58,
+      "source_page_local": 58,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "160084"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/160084.jpg",
+      "thumbnail": "images/thumb/2026-11-14/160084.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 268599,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-16",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "124282",
+      "item_nos": [
+        "124282"
+      ],
+      "product_name": "北海道生干貝L",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 59,
+      "source_page_local": 59,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "124282"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/124282.jpg",
+      "thumbnail": "images/thumb/2026-11-14/124282.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 339293,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-16",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "8500806",
+      "item_nos": [
+        "8500806"
+      ],
+      "product_name": "DACHAN 大成冷凍炙烤雞肉串",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 60,
+      "source_page_local": 60,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "8500806"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/8500806.jpg",
+      "thumbnail": "images/thumb/2026-11-14/8500806.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 266965,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1520018",
+      "item_nos": [
+        "1520018"
+      ],
+      "product_name": "MENISSEZ 半熟小圓法式麵包",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 61,
+      "source_page_local": 61,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1520018"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1520018.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1520018.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 351799,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-20",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "8524374",
+      "item_nos": [
+        "8524374"
+      ],
+      "product_name": "BRUSH FINCH FLEECE 男刷毛外套",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 62,
+      "source_page_local": 62,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "8524374"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/8524374.jpg",
+      "thumbnail": "images/thumb/2026-11-14/8524374.jpg",
+      "width": 1140,
+      "height": 1436,
+      "size_bytes": 314429,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1956404",
+      "item_nos": [
+        "1956404"
+      ],
+      "product_name": "CODES COMBINE 韓版女綁帶寬褲",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 63,
+      "source_page_local": 63,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1956404"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1956404.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1956404.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 226788,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "7771740",
+      "item_nos": [
+        "7771740"
+      ],
+      "product_name": "KIRKLAND SIGNATURE 科克蘭女純棉圓領長袖上衣",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 64,
+      "source_page_local": 64,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "7771740"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/7771740.jpg",
+      "thumbnail": "images/thumb/2026-11-14/7771740.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 256595,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1956419",
+      "item_nos": [
+        "1956419"
+      ],
+      "product_name": "JACHS GIRLFRIEND 女匹馬棉圓領長袖上衣",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 65,
+      "source_page_local": 65,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1956419"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1956419.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1956419.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 341529,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1956420",
+      "item_nos": [
+        "1956420"
+      ],
+      "product_name": "JACHS 女亞麻休閒襯衫",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 66,
+      "source_page_local": 66,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1956420"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1956420.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1956420.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 340867,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1956762",
+      "item_nos": [
+        "1956762"
+      ],
+      "product_name": "SMILEY WORLD 女束口長褲",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 67,
+      "source_page_local": 67,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1956762"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1956762.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1956762.jpg",
+      "width": 1108,
+      "height": 1478,
+      "size_bytes": 315292,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "2007627",
+      "item_nos": [
+        "2007627"
+      ],
+      "product_name": "ADIDAS 女連帽長袖上衣",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 68,
+      "source_page_local": 68,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "2007627"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/2007627.jpg",
+      "thumbnail": "images/thumb/2026-11-14/2007627.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 303690,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "160430",
+      "item_nos": [
+        "160430"
+      ],
+      "product_name": "CATERPILLAR 男長袖帆布襯衫",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 69,
+      "source_page_local": 69,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "160430"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/160430.jpg",
+      "thumbnail": "images/thumb/2026-11-14/160430.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 257062,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "8520434",
+      "item_nos": [
+        "8520434"
+      ],
+      "product_name": "TOMMY HILFIGER 男長褲",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 70,
+      "source_page_local": 70,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "8520434"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/8520434.jpg",
+      "thumbnail": "images/thumb/2026-11-14/8520434.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 307440,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1846540",
+      "item_nos": [
+        "1846540"
+      ],
+      "product_name": "NEW BALANCE 男填充保暖外套",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 71,
+      "source_page_local": 71,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1846540"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1846540.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1846540.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 267880,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "155748",
+      "item_nos": [
+        "155748"
+      ],
+      "product_name": "CALVIN KLEIN 女絎縫外套",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 72,
+      "source_page_local": 72,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "155748"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/155748.jpg",
+      "thumbnail": "images/thumb/2026-11-14/155748.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 267298,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "160080",
+      "item_nos": [
+        "160080"
+      ],
+      "product_name": "ASAHI 十六茶零咖啡因複方茶",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 73,
+      "source_page_local": 73,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "160080"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/160080.jpg",
+      "thumbnail": "images/thumb/2026-11-14/160080.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 256043,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "152339",
+      "item_nos": [
+        "152339"
+      ],
+      "product_name": "OSRAM 歐司朗德勒斯登護眼檯燈",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 74,
+      "source_page_local": 74,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "152339"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/152339.jpg",
+      "thumbnail": "images/thumb/2026-11-14/152339.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 263705,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1731065",
+      "item_nos": [
+        "1731065"
+      ],
+      "product_name": "MAXCHIEF 布面折疊椅",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 75,
+      "source_page_local": 75,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1731065"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1731065.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1731065.jpg",
+      "width": 1108,
+      "height": 1478,
+      "size_bytes": 326588,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1259326",
+      "item_nos": [
+        "1259326"
+      ],
+      "product_name": "CALVIN KLEIN 男彈性內褲三入組",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 76,
+      "source_page_local": 76,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1259326"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1259326.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1259326.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 266584,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "157119",
+      "item_nos": [
+        "157119"
+      ],
+      "product_name": "VORNADO DC 渦流空氣循環扇",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 77,
+      "source_page_local": 77,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "157119"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/157119.jpg",
+      "thumbnail": "images/thumb/2026-11-14/157119.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 211344,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "130584",
+      "item_nos": [
+        "130584"
+      ],
+      "product_name": "BRAND’S 白蘭氏葉黃素精華飲",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 78,
+      "source_page_local": 78,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "130584"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/130584.jpg",
+      "thumbnail": "images/thumb/2026-11-14/130584.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 159376,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "143026",
+      "item_nos": [
+        "143026"
+      ],
+      "product_name": "DER LOWE 德國傳統香腸",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 79,
+      "source_page_local": 79,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "143026"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/143026.jpg",
+      "thumbnail": "images/thumb/2026-11-14/143026.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 287943,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "150694",
+      "item_nos": [
+        "150694"
+      ],
+      "product_name": "USII 防霾PM2.5靜電紗網",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 80,
+      "source_page_local": 80,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "150694"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/150694.jpg",
+      "thumbnail": "images/thumb/2026-11-14/150694.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 301186,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "150349",
+      "item_nos": [
+        "150349"
+      ],
+      "product_name": "FI 福壽機能腸胃保健配方乾狗糧",
+      "category": "🐶/🐱 寵物用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 81,
+      "source_page_local": 81,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "150349"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/150349.jpg",
+      "thumbnail": "images/thumb/2026-11-14/150349.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 352701,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "157417",
+      "item_nos": [
+        "157417"
+      ],
+      "product_name": "CONVERSE 中性厚底帆布鞋",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 82,
+      "source_page_local": 82,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "157417"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/157417.jpg",
+      "thumbnail": "images/thumb/2026-11-14/157417.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 209110,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "158453",
+      "item_nos": [
+        "158453"
+      ],
+      "product_name": "TEDDI ROSE 女七分袖襯衫",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 83,
+      "source_page_local": 83,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "158453"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/158453.jpg",
+      "thumbnail": "images/thumb/2026-11-14/158453.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 230758,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "158452",
+      "item_nos": [
+        "158452"
+      ],
+      "product_name": "TEDDI ROSE 女毛衣",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 84,
+      "source_page_local": 84,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "158452"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/158452.jpg",
+      "thumbnail": "images/thumb/2026-11-14/158452.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 266345,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "523805",
+      "item_nos": [
+        "523805"
+      ],
+      "product_name": "AEROPOSTALE 男工作長褲",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 85,
+      "source_page_local": 85,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "523805"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/523805.jpg",
+      "thumbnail": "images/thumb/2026-11-14/523805.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 300671,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-18",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "156529",
+      "item_nos": [
+        "156529"
+      ],
+      "product_name": "CATERPILLAR 男長袖上衣",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 86,
+      "source_page_local": 86,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "156529"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/156529.jpg",
+      "thumbnail": "images/thumb/2026-11-14/156529.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 265277,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-18",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1623653",
+      "item_nos": [
+        "1623653"
+      ],
+      "product_name": "JACHS 男長袖居家服套組",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 87,
+      "source_page_local": 87,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1623653"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1623653.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1623653.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 242486,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-18",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "2010412",
+      "item_nos": [
+        "2010412"
+      ],
+      "product_name": "HILARY RADLEY 女直筒寬褲",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 88,
+      "source_page_local": 88,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "2010412"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/2010412.jpg",
+      "thumbnail": "images/thumb/2026-11-14/2010412.jpg",
+      "width": 1108,
+      "height": 1478,
+      "size_bytes": 284468,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "2005167",
+      "item_nos": [
+        "2005167"
+      ],
+      "product_name": "PUMA 女束口長褲",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 89,
+      "source_page_local": 89,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "2005167"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/2005167.jpg",
+      "thumbnail": "images/thumb/2026-11-14/2005167.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 233235,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1945300",
+      "item_nos": [
+        "1945300"
+      ],
+      "product_name": "SCOTCH＆SODA 女毛衣",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 90,
+      "source_page_local": 90,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1945300"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1945300.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1945300.jpg",
+      "width": 1108,
+      "height": 1478,
+      "size_bytes": 273810,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1241800",
+      "item_nos": [
+        "1241800"
+      ],
+      "product_name": "SOURIS 幼兒套裝兩件組",
+      "category": "👶 母嬰兒童",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 91,
+      "source_page_local": 91,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "1241800"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1241800.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1241800.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 280065,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-18",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "159501",
+      "item_nos": [
+        "159501"
+      ],
+      "product_name": "WEATHERPROOF 兒童運動兩入組",
+      "category": "👶 母嬰兒童",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 92,
+      "source_page_local": 92,
+      "source_file": "Costco好市多20261.pdf",
+      "source_item_nos_from_caption": [
+        "159501"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/159501.jpg",
+      "thumbnail": "images/thumb/2026-11-14/159501.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 288055,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-21",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "2010239",
+      "item_nos": [
+        "2010239"
+      ],
+      "product_name": "BANANA 女休閒長褲",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 93,
+      "source_page_local": 1,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "2010239"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/2010239.jpg",
+      "thumbnail": "images/thumb/2026-11-14/2010239.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 265466,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "136393",
+      "item_nos": [
+        "136393"
+      ],
+      "product_name": "M2R 機車半露臉式防護頭盔 M-506 M-L",
+      "category": "🚗 汽車用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 94,
+      "source_page_local": 2,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "136393",
+        "136394",
+        "136395"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。 圖說寫M-XL，照片價牌標示M-L，顯示名稱依照片價牌，其他貨號未套用。",
+      "image": "images/full/2026-11-14/136393.jpg",
+      "thumbnail": "images/thumb/2026-11-14/136393.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 410061,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/",
+      "source_product_name_from_caption": "M2R 機車半露臉式防護頭盔 M-506 M-XL"
+    },
+    {
+      "item_no": "143022",
+      "item_nos": [
+        "143022"
+      ],
+      "product_name": "BEE CHENG HIANG 美珍香原味小鬆脆",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 95,
+      "source_page_local": 3,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "143022"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/143022.jpg",
+      "thumbnail": "images/thumb/2026-11-14/143022.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 295788,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "92026",
+      "item_nos": [
+        "92026"
+      ],
+      "product_name": "RITZ 麗滋小圓餅乾",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 96,
+      "source_page_local": 4,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "92026"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/92026.jpg",
+      "thumbnail": "images/thumb/2026-11-14/92026.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 287492,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "337333",
+      "item_nos": [
+        "337333"
+      ],
+      "product_name": "LAY’S 樂事濃香菜風味洋芋片",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 97,
+      "source_page_local": 5,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "337333"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/337333.jpg",
+      "thumbnail": "images/thumb/2026-11-14/337333.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 312936,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "141523",
+      "item_nos": [
+        "141523"
+      ],
+      "product_name": "VITALI 維大力汽水",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 98,
+      "source_page_local": 6,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "141523"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/141523.jpg",
+      "thumbnail": "images/thumb/2026-11-14/141523.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 242559,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "74990",
+      "item_nos": [
+        "74990"
+      ],
+      "product_name": "TREE TOP 100%番茄汁",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 99,
+      "source_page_local": 7,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "74990"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/74990.jpg",
+      "thumbnail": "images/thumb/2026-11-14/74990.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 288884,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "157402",
+      "item_nos": [
+        "157402"
+      ],
+      "product_name": "FRESH DELIGHT 福樂草莓優格飲(保久乳飲品)",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 100,
+      "source_page_local": 8,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "157402"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/157402.jpg",
+      "thumbnail": "images/thumb/2026-11-14/157402.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 303187,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "352414",
+      "item_nos": [
+        "352414"
+      ],
+      "product_name": "PRETZ 百力滋風味棒",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 101,
+      "source_page_local": 9,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "352414"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/352414.jpg",
+      "thumbnail": "images/thumb/2026-11-14/352414.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 321715,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1212068",
+      "item_nos": [
+        "1212068"
+      ],
+      "product_name": "RICHY 瑞奇迷你燕麥酥",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 102,
+      "source_page_local": 10,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1212068"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1212068.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1212068.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 244004,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "592361",
+      "item_nos": [
+        "592361"
+      ],
+      "product_name": "LOACKER 萊佳綜合迷你威化夾心餅",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 103,
+      "source_page_local": 11,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "592361"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/592361.jpg",
+      "thumbnail": "images/thumb/2026-11-14/592361.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 250241,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "100550",
+      "item_nos": [
+        "100550"
+      ],
+      "product_name": "SCOTCH-BRITE 百利木漿棉菜瓜布",
+      "category": "🧻 日用品清潔",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 104,
+      "source_page_local": 12,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "100550"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/100550.jpg",
+      "thumbnail": "images/thumb/2026-11-14/100550.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 300759,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "169390",
+      "item_nos": [
+        "169390"
+      ],
+      "product_name": "ASTONISH 英國潔氣炸鍋除油清潔劑",
+      "category": "🧻 日用品清潔",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 105,
+      "source_page_local": 13,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "169390"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/169390.jpg",
+      "thumbnail": "images/thumb/2026-11-14/169390.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 293863,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "765443",
+      "item_nos": [
+        "765443"
+      ],
+      "product_name": "TORC 室內香氛擴香",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 106,
+      "source_page_local": 14,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "765443"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/765443.jpg",
+      "thumbnail": "images/thumb/2026-11-14/765443.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 244352,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1901800",
+      "item_nos": [
+        "1901800"
+      ],
+      "product_name": "CORKCICLE 不鏽鋼保冷保溫隨行杯",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 107,
+      "source_page_local": 15,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1901800"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1901800.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1901800.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 168093,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "123314",
+      "item_nos": [
+        "123314"
+      ],
+      "product_name": "睡眠眠雙人雙面日式睡墊",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 108,
+      "source_page_local": 16,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "123314"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/123314.jpg",
+      "thumbnail": "images/thumb/2026-11-14/123314.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 334329,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "123313",
+      "item_nos": [
+        "123313"
+      ],
+      "product_name": "ORIENTAL 睡眠眠單人雙面日式睡墊",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 109,
+      "source_page_local": 17,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "123313"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/123313.jpg",
+      "thumbnail": "images/thumb/2026-11-14/123313.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 277340,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "148600",
+      "item_nos": [
+        "148600"
+      ],
+      "product_name": "REVERIE 天然乳膠舒眠枕",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 110,
+      "source_page_local": 18,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "148600"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/148600.jpg",
+      "thumbnail": "images/thumb/2026-11-14/148600.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 230128,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1956764",
+      "item_nos": [
+        "1956764"
+      ],
+      "product_name": "NAUTICA 女長袖睡衣套組",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 111,
+      "source_page_local": 19,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1956764"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1956764.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1956764.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 219288,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "8520993",
+      "item_nos": [
+        "8520993"
+      ],
+      "product_name": "NAUTICA 女內褲六入組",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 112,
+      "source_page_local": 20,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "8520993"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/8520993.jpg",
+      "thumbnail": "images/thumb/2026-11-14/8520993.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 214754,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "722161",
+      "item_nos": [
+        "722161"
+      ],
+      "product_name": "YOUTHEORY 南非醉茄萃取膠囊",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 113,
+      "source_page_local": 21,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "722161"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/722161.jpg",
+      "thumbnail": "images/thumb/2026-11-14/722161.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 191096,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "148430",
+      "item_nos": [
+        "148430"
+      ],
+      "product_name": "DR.ADVICE 健康力高鈣凍",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 114,
+      "source_page_local": 22,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "148430"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/148430.jpg",
+      "thumbnail": "images/thumb/2026-11-14/148430.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 252551,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "153470",
+      "item_nos": [
+        "153470"
+      ],
+      "product_name": "HADA LABO 肌研極潤抗皺緊實精華液",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 115,
+      "source_page_local": 23,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "153470"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/153470.jpg",
+      "thumbnail": "images/thumb/2026-11-14/153470.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 267430,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "150731",
+      "item_nos": [
+        "150731"
+      ],
+      "product_name": "CETAPHIL 舒特膚舒新潔面泡泡",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 116,
+      "source_page_local": 24,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "150731"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/150731.jpg",
+      "thumbnail": "images/thumb/2026-11-14/150731.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 281282,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "160482",
+      "item_nos": [
+        "160482"
+      ],
+      "product_name": "LUX 麗仕金木犀輕盈修護洗髮精",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 117,
+      "source_page_local": 25,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "160482"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/160482.jpg",
+      "thumbnail": "images/thumb/2026-11-14/160482.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 382986,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "252997",
+      "item_nos": [
+        "252997"
+      ],
+      "product_name": "HEAD＆SHOULDERS 海倫仙度絲抗老洗護組",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 118,
+      "source_page_local": 26,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "252997"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/252997.jpg",
+      "thumbnail": "images/thumb/2026-11-14/252997.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 257951,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "249596",
+      "item_nos": [
+        "249596"
+      ],
+      "product_name": "UNOVE 角蛋白深層修護髮膜組",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 119,
+      "source_page_local": 27,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "249596"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/249596.jpg",
+      "thumbnail": "images/thumb/2026-11-14/249596.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 270052,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "693793",
+      "item_nos": [
+        "693793"
+      ],
+      "product_name": "ANIMATED 聖誕玩偶音樂裝飾2件組",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 120,
+      "source_page_local": 28,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "693793"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/693793.jpg",
+      "thumbnail": "images/thumb/2026-11-14/693793.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 268319,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1592680",
+      "item_nos": [
+        "1592680"
+      ],
+      "product_name": "32 DEGREES 男羽絨外套",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 121,
+      "source_page_local": 29,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1592680"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1592680.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1592680.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 233444,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "157384",
+      "item_nos": [
+        "157384"
+      ],
+      "product_name": "SAMSONITE 多功能旅行袋",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 122,
+      "source_page_local": 30,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "157384"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/157384.jpg",
+      "thumbnail": "images/thumb/2026-11-14/157384.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 224157,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "8525995",
+      "item_nos": [
+        "8525995"
+      ],
+      "product_name": "DISNEY 絨毛玩偶包",
+      "category": "👶 母嬰兒童",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 123,
+      "source_page_local": 31,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "8525995"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/8525995.jpg",
+      "thumbnail": "images/thumb/2026-11-14/8525995.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 247532,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "157501",
+      "item_nos": [
+        "157501"
+      ],
+      "product_name": "ORAL-B 歐樂B充電式兒童電動牙刷 IO KIDS",
+      "category": "🧴 美妝個人護理",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 124,
+      "source_page_local": 32,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "157501"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/157501.jpg",
+      "thumbnail": "images/thumb/2026-11-14/157501.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 277342,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "167882",
+      "item_nos": [
+        "167882"
+      ],
+      "product_name": "SERENA 喜年來OH!醬小蛋餅",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 125,
+      "source_page_local": 33,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "167882"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/167882.jpg",
+      "thumbnail": "images/thumb/2026-11-14/167882.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 352160,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "145141",
+      "item_nos": [
+        "145141"
+      ],
+      "product_name": "REMY MARTIN 人頭馬XO特優香檳干邑白蘭地",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 126,
+      "source_page_local": 34,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "145141"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/145141.jpg",
+      "thumbnail": "images/thumb/2026-11-14/145141.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 260392,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "162241",
+      "item_nos": [
+        "162241"
+      ],
+      "product_name": "GLENFIDDICH 格蘭菲迪14年波本桶單一麥芽威士忌",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 127,
+      "source_page_local": 35,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "162241"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/162241.jpg",
+      "thumbnail": "images/thumb/2026-11-14/162241.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 260095,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "147123",
+      "item_nos": [
+        "147123"
+      ],
+      "product_name": "DEANSTON 汀士頓12年波本桶威士忌",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 128,
+      "source_page_local": 36,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "147123"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/147123.jpg",
+      "thumbnail": "images/thumb/2026-11-14/147123.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 275044,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "151187",
+      "item_nos": [
+        "151187"
+      ],
+      "product_name": "CJ BIBIGO 芝麻油",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 129,
+      "source_page_local": 37,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "151187"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/151187.jpg",
+      "thumbnail": "images/thumb/2026-11-14/151187.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 274103,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "158083",
+      "item_nos": [
+        "158083"
+      ],
+      "product_name": "KIKANBO 鬼金棒辣麻味噌拉麵",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 130,
+      "source_page_local": 38,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "158083"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/158083.jpg",
+      "thumbnail": "images/thumb/2026-11-14/158083.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 349934,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "160040",
+      "item_nos": [
+        "160040"
+      ],
+      "product_name": "NESTLE 雀巢全穀麥圈綜合穀口味",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 131,
+      "source_page_local": 39,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "160040"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/160040.jpg",
+      "thumbnail": "images/thumb/2026-11-14/160040.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 232792,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1168940",
+      "item_nos": [
+        "1168940"
+      ],
+      "product_name": "KINDER 健達繽紛樂",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 132,
+      "source_page_local": 40,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1168940"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1168940.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1168940.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 291568,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "125049",
+      "item_nos": [
+        "125049"
+      ],
+      "product_name": "NESTLE 雀巢可可早餐脆片",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 133,
+      "source_page_local": 41,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "125049"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/125049.jpg",
+      "thumbnail": "images/thumb/2026-11-14/125049.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 307482,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "283269",
+      "item_nos": [
+        "283269"
+      ],
+      "product_name": "QUAKER 桂格莓好果漾沖泡穀奶昔",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 134,
+      "source_page_local": 42,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "283269"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/283269.jpg",
+      "thumbnail": "images/thumb/2026-11-14/283269.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 234114,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "136645",
+      "item_nos": [
+        "136645"
+      ],
+      "product_name": "KUANG CHUAN 光泉綜合莓果燕麥優酪",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 135,
+      "source_page_local": 43,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "136645"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/136645.jpg",
+      "thumbnail": "images/thumb/2026-11-14/136645.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 260299,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "311188",
+      "item_nos": [
+        "311188"
+      ],
+      "product_name": "KITKAT 奇巧迷你威化繽紛組",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 136,
+      "source_page_local": 44,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "311188"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/311188.jpg",
+      "thumbnail": "images/thumb/2026-11-14/311188.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 283135,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "123003",
+      "item_nos": [
+        "123003"
+      ],
+      "product_name": "SHJ DR.Q 盛香珍葡萄草莓蒟蒻果凍",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 137,
+      "source_page_local": 45,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "123003"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/123003.jpg",
+      "thumbnail": "images/thumb/2026-11-14/123003.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 302932,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "195826",
+      "item_nos": [
+        "195826"
+      ],
+      "product_name": "AIRWAVES 紫冰野莓無糖口香糖",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 138,
+      "source_page_local": 46,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "195826"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/195826.jpg",
+      "thumbnail": "images/thumb/2026-11-14/195826.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 272009,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "146925",
+      "item_nos": [
+        "146925"
+      ],
+      "product_name": "CLASSIC 金博家正宗四川担担麵",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 139,
+      "source_page_local": 47,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "146925"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/146925.jpg",
+      "thumbnail": "images/thumb/2026-11-14/146925.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 283758,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "145227",
+      "item_nos": [
+        "145227"
+      ],
+      "product_name": "STARBUCKS 星巴克咖啡膠囊特選風味組 適用NESPRESSO咖啡機",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 140,
+      "source_page_local": 48,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "145227"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/145227.jpg",
+      "thumbnail": "images/thumb/2026-11-14/145227.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 262359,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "8876836",
+      "item_nos": [
+        "8876836"
+      ],
+      "product_name": "COMBOS 冠寶起司捲心餅",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 141,
+      "source_page_local": 49,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "8876836"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/8876836.jpg",
+      "thumbnail": "images/thumb/2026-11-14/8876836.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 257419,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1901777",
+      "item_nos": [
+        "1901777"
+      ],
+      "product_name": "OVER＆BACK 陶製餐具16件組四人份",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 142,
+      "source_page_local": 50,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1901777"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1901777.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1901777.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 317794,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "158438",
+      "item_nos": [
+        "158438"
+      ],
+      "product_name": "PANASONIC 國際牌IH電子鍋 SR-FE109",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 143,
+      "source_page_local": 51,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "158438"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/158438.jpg",
+      "thumbnail": "images/thumb/2026-11-14/158438.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 191434,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "125082",
+      "item_nos": [
+        "125082"
+      ],
+      "product_name": "TEFAL 智能溫控電水壺 KI710D70",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 144,
+      "source_page_local": 52,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "125082"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/125082.jpg",
+      "thumbnail": "images/thumb/2026-11-14/125082.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 166558,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-19",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "155629",
+      "item_nos": [
+        "155629"
+      ],
+      "product_name": "TEFAL 特福紅外線氣炸鍋 EY8228H0",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 145,
+      "source_page_local": 53,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "155629"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/155629.jpg",
+      "thumbnail": "images/thumb/2026-11-14/155629.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 252832,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-19",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "157137",
+      "item_nos": [
+        "157137"
+      ],
+      "product_name": "HONEYWELL 空氣清淨機 HPA5350WTWV1",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 146,
+      "source_page_local": 54,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "157137"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/157137.jpg",
+      "thumbnail": "images/thumb/2026-11-14/157137.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 262240,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "136410",
+      "item_nos": [
+        "136410"
+      ],
+      "product_name": "PHILIPS 飛利浦快速洩壓智慧萬用鍋 HD2151",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 147,
+      "source_page_local": 55,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "136410"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/136410.jpg",
+      "thumbnail": "images/thumb/2026-11-14/136410.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 169295,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "8526494",
+      "item_nos": [
+        "8526494"
+      ],
+      "product_name": "PAW PATROL 卡通拼圖20入",
+      "category": "👶 母嬰兒童",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 148,
+      "source_page_local": 56,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "8526494"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/8526494.jpg",
+      "thumbnail": "images/thumb/2026-11-14/8526494.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 379361,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "254478",
+      "item_nos": [
+        "254478"
+      ],
+      "product_name": "楓糖核桃乳酪抹醬",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 149,
+      "source_page_local": 57,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "254478"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/254478.jpg",
+      "thumbnail": "images/thumb/2026-11-14/254478.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 256161,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "254512",
+      "item_nos": [
+        "254512"
+      ],
+      "product_name": "燻鮭魚乳酪抹醬",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 150,
+      "source_page_local": 58,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "254512"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/254512.jpg",
+      "thumbnail": "images/thumb/2026-11-14/254512.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 253097,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "157230",
+      "item_nos": [
+        "157230"
+      ],
+      "product_name": "PANASONIC 遠近紅外線烤箱9公升 NB-G205",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 151,
+      "source_page_local": 59,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "157230"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/157230.jpg",
+      "thumbnail": "images/thumb/2026-11-14/157230.jpg",
+      "width": 1108,
+      "height": 1478,
+      "size_bytes": 171929,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "156308",
+      "item_nos": [
+        "156308"
+      ],
+      "product_name": "黑麥酸麵包",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 152,
+      "source_page_local": 60,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "156308"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/156308.jpg",
+      "thumbnail": "images/thumb/2026-11-14/156308.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 264342,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "147378",
+      "item_nos": [
+        "147378"
+      ],
+      "product_name": "IRIS 三層抽屜式透明收納櫃 NSW543",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 153,
+      "source_page_local": 61,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "147378"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/147378.jpg",
+      "thumbnail": "images/thumb/2026-11-14/147378.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 313253,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1872241",
+      "item_nos": [
+        "1872241"
+      ],
+      "product_name": "CLEVERMADE 可摺疊托特包",
+      "category": "🍳 廚房居家",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 154,
+      "source_page_local": 62,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1872241"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1872241.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1872241.jpg",
+      "width": 1500,
+      "height": 1124,
+      "size_bytes": 265298,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1859446",
+      "item_nos": [
+        "1859446"
+      ],
+      "product_name": "GAP 女長袖鈕扣襯衫",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 155,
+      "source_page_local": 63,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1859446"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1859446.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1859446.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 258931,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1963036",
+      "item_nos": [
+        "1963036"
+      ],
+      "product_name": "GAP 女圓領長袖開襟衫",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 156,
+      "source_page_local": 64,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1963036"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1963036.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1963036.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 248058,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "159833",
+      "item_nos": [
+        "159833"
+      ],
+      "product_name": "天地合補漢方水荷葉薏仁",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 157,
+      "source_page_local": 65,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "159833"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/159833.jpg",
+      "thumbnail": "images/thumb/2026-11-14/159833.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 262939,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1990040",
+      "item_nos": [
+        "1990040"
+      ],
+      "product_name": "HURLEY FRENCH 男毛圈布運動長褲",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 158,
+      "source_page_local": 66,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1990040"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1990040.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1990040.jpg",
+      "width": 1108,
+      "height": 1477,
+      "size_bytes": 305448,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-15",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "1763788",
+      "item_nos": [
+        "1763788"
+      ],
+      "product_name": "TOMMY HILFIGER 男外套",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 159,
+      "source_page_local": 67,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "1763788"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/1763788.jpg",
+      "thumbnail": "images/thumb/2026-11-14/1763788.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 317472,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "615812",
+      "item_nos": [
+        "615812"
+      ],
+      "product_name": "SWISS MILITARY 24吋行李箱",
+      "category": "👕 服飾運動",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 160,
+      "source_page_local": 68,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "615812"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/615812.jpg",
+      "thumbnail": "images/thumb/2026-11-14/615812.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 243941,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "151283",
+      "item_nos": [
+        "151283"
+      ],
+      "product_name": "RICHY 瑞奇富裕蔬菜餅",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 161,
+      "source_page_local": 69,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "151283"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/151283.jpg",
+      "thumbnail": "images/thumb/2026-11-14/151283.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 279567,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "98270",
+      "item_nos": [
+        "98270"
+      ],
+      "product_name": "ITO-EN 伊藤園綠茶",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 162,
+      "source_page_local": 70,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "98270"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/98270.jpg",
+      "thumbnail": "images/thumb/2026-11-14/98270.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 334745,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-21",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "152059",
+      "item_nos": [
+        "152059"
+      ],
+      "product_name": "E.BEN 一本嫩仙草",
+      "category": "🍪 食品零食",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 163,
+      "source_page_local": 71,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "152059"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/152059.jpg",
+      "thumbnail": "images/thumb/2026-11-14/152059.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 248670,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "193057",
+      "item_nos": [
+        "193057"
+      ],
+      "product_name": "ACUVUE 安視優超涵水散光每日拋棄式隱形眼鏡",
+      "category": "💊 保健用品",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 164,
+      "source_page_local": 72,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "92539",
+        "193057"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/193057.jpg",
+      "thumbnail": "images/thumb/2026-11-14/193057.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 279010,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "113041",
+      "item_nos": [
+        "113041"
+      ],
+      "product_name": "LAUGHING COW 笑牛原味迷你乾酪",
+      "category": "🥩 生鮮冷藏／冷凍",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 165,
+      "source_page_local": 73,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "113041"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/113041.jpg",
+      "thumbnail": "images/thumb/2026-11-14/113041.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 283895,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-11-22",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "133400",
+      "item_nos": [
+        "133400"
+      ],
+      "product_name": "QUAKER 桂格奇亞籽穀力飲",
+      "category": "☕ 飲料咖啡",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 166,
+      "source_page_local": 74,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "133400"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/133400.jpg",
+      "thumbnail": "images/thumb/2026-11-14/133400.jpg",
+      "width": 1477,
+      "height": 1108,
+      "size_bytes": 227240,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": null,
+      "date_note": "未能可靠核實截止日期，不推定優惠有效期間。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    },
+    {
+      "item_no": "154022",
+      "item_nos": [
+        "154022",
+        "154028",
+        "154036",
+        "154060",
+        "154071"
+      ],
+      "product_name": "大金變頻冷暖大關 22Z-71Z",
+      "category": "💻 3C家電",
+      "channel": "賣場目擊（非官方整理）",
+      "observed_on": "2026-11-14",
+      "source_page_combined": 167,
+      "source_page_local": 75,
+      "source_file": "Costco好市多2026112.pdf",
+      "source_item_nos_from_caption": [
+        "154022",
+        "154028",
+        "154036",
+        "154060",
+        "154071"
+      ],
+      "match_note": "圖說含其他貨號時，僅採照片價牌確認的貨號；多貨號同圖按一組計。",
+      "image": "images/full/2026-11-14/154022.jpg",
+      "thumbnail": "images/thumb/2026-11-14/154022.jpg",
+      "width": 1478,
+      "height": 1108,
+      "size_bytes": 194481,
+      "sale_price": null,
+      "discount": null,
+      "ends_on": "2026-12-31",
+      "date_note": "價牌優惠截止日人工核對；售完及分店條件仍以現場為準。",
+      "price_note": "現場價格、折扣與限購條件請點圖查看原始價牌；不以線上價格代填。 此圖含五種規格；價牌標示 #154036 已售完，各規格價格與庫存分別以現場為準。",
+      "availability_note": "目擊紀錄不代表今日仍有效或有庫存。",
+      "source_url": "https://www.daybuy.tw/costco/279120/"
+    }
+  ],
+  "excluded": [
+    {
+      "combined_pages": [
+        1,
+        2
+      ],
+      "reason": "封面與導覽，非商品價牌。"
+    },
+    {
+      "combined_pages": [
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184
+      ],
+      "reason": "推薦文章與頁尾，非11/14正文商品。"
+    }
+  ]
+}
